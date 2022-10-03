@@ -1,0 +1,447 @@
+,0
+0,4-hydroxystyrene
+1,p-hydroxyphenylacetate
+2,acesulfame
+3,phenyllactate
+4,azelate
+5,sebacate
+6,undecanedionate
+7,acetytyrosine
+8,myristic acid
+9,dodecanedioic acid
+10,2-hydroxymyristic acid
+11,palmitoleic acid
+12,palmitic acid
+13,tetradecanedioate
+14,"1,2,3,4-tetrahydro-b-carboline-1,3-dicarboxylic acid"
+15,2-hydroxyhexadecanoate
+16,alpha-linolenic acid
+17,linoleic acid
+18,oleic acid
+19,stearic acid
+20,hexadecanedioic acid
+21,eicosapentaenoic acid
+22,arachidonic acid
+23,eicosatrienoic acid
+24,eicosenoate
+25,12.13-diHOME
+26,9.10-diHOME
+27,docosahexaenoic acid
+28,carnosol
+29,docosapentaenoic acid
+30,adrenic acid
+31,palmitoylethanolamide
+32,13-docosenoate
+33,palmitoylethanolamide
+34,eicosatrienoic acid
+35,nervonic acid
+36,arachidonic acid
+37,lithocholic acid
+38,chenodeoxycholate
+39,deoxycholic acid
+40,docosapentaenoic acid
+41,ketodeoxycholate
+42,7-ketodeoxycholate
+43,alpha-muricholate
+44,cholate
+45,chenodeoxycholate
+46,chenodeoxycholate
+47,glycolithocholic acid
+48,chenodeoxycholate
+49,arachidonic acid
+50,cholate
+51,glycodeoxycholic acid
+52,glycoursodeoxycholic acid
+53,cholate
+54,cholate
+55,oleanolic acid
+56,chenodeoxycholate
+57,cholate
+58,maslinic acid
+59,taurolithocholic acid
+60,taurochenodesoxycholic acid
+61,taurodeoxycholic acid
+62,oleanolic acid
+63,arachidonic acid
+64,cholate
+65,maslinic acid
+66,cholate
+67,maslinic acid
+68,arachidonic acid
+69,urobilin
+70,maslinic acid
+71,7-hexadecenoic acid methyl ester
+72,sphingosine
+73,piperine
+74,sphingosine
+75,palmitoylethanolamide
+76,sphingosine
+77,stearoyl ethanolamide
+78,palmitoyl glycerol
+79,C16:1 MAG*
+80,C18:0e MAG
+81,C16:1 MAG
+82,C18:0e MAG
+83,cholesterol
+84,C18:0 MAG
+85,C18:0 MAG
+86,cholestenone
+87,beta-sitosterol
+88,cholestenone
+89,cholestenone
+90,C22:1 MAG
+91,cholestenone
+92,epoxysqualene
+93,C24:0 TAG
+94,C16:0 LPC
+95,C20:0 LPE
+96,C18:3 LPC
+97,C18:2 LPC
+98,C18:1 LPC
+99,C18:0 LPC
+100,sphingosine
+101,C16:0 ceramide (d18:1)
+102,C20:5 LPC
+103,C30:0 DAG
+104,C32:2 DAG*
+105,C32:0 DAG
+106,C34:3 DAG*
+107,C34:2 DAG*
+108,C34:1 DAG*
+109,C34:3 DAG
+110,C34:2 DAG
+111,C34:0 DAG*
+112,C14:0 CE
+113,C36:4 DAG*
+114,C36:3 DAG*
+115,C36:2 DAG*
+116,C36:4 DAG
+117,C16:1 CE
+118,C36:3 DAG
+119,C16:0 CE
+120,C36:2 DAG
+121,C16:1 CE*
+122,C36:0 DAG
+123,C16:0 CE
+124,C18:3 CE
+125,C38:5 DAG*
+126,C18:2 CE
+127,C18:1 CE
+128,C18:3 CE*
+129,C18:0 CE
+130,C18:2 CE*
+131,C14:0 SM
+132,C18:0 CE
+133,C20:4 CE
+134,C20:3 CE
+135,C20:5 CE
+136,C20:4 CE
+137,C20:3 CE*
+138,C16:1 SM
+139,C16:0 SM
+140,C22:5 CE
+141,C22:4 CE
+142,C22:6 CE
+143,C34:0 PE
+144,C22:5 CE*
+145,C22:4 CE*
+146,C18:0 SM
+147,C32:1 PC
+148,C42:0 TAG
+149,C42:0 TAG
+150,C34:1 PC plasmalogen-A
+151,C34:2 PC
+152,C34:1 PC
+153,C36:5 PC plasmalogen-A
+154,C36:5 PC plasmalogen-B
+155,C44:1 TAG
+156,C44:0 TAG*
+157,cholestenone
+158,C44:1 TAG
+159,C36:2 PC plasmalogen
+160,C44:0 TAG
+161,C36:4 PC-A
+162,C36:4 PC-B
+163,C36:3 PC
+164,C22:1 SM
+165,C36:2 PC
+166,C22:0 SM
+167,C36:1 PC
+168,cholestenone
+169,C46:2 TAG*
+170,C46:1 TAG*
+171,C46:0 TAG*
+172,C46:2 TAG
+173,C46:1 TAG
+174,C46:0 TAG
+175,C24:1 SM
+176,C24:0 SM
+177,C48:2 TAG*
+178,C48:4 TAG
+179,C48:3 TAG
+180,C48:0 TAG*
+181,C48:2 TAG
+182,C48:1 TAG
+183,C48:0 TAG
+184,C49:1 TAG
+185,C50:4 TAG*
+186,C50:3 TAG*
+187,C50:5 TAG
+188,C50:4 TAG
+189,C50:1 TAG*
+190,C50:3 TAG
+191,C50:2 TAG
+192,C50:1 TAG
+193,C50:0 TAG
+194,C51:3 TAG*
+195,C51:2 TAG*
+196,C51:2 TAG*
+197,C52:6 TAG*
+198,C52:5 TAG*
+199,C52:7 TAG
+200,C51:0 TAG*
+201,C52:4 TAG*
+202,C52:6 TAG
+203,C52:3 TAG*
+204,C52:5 TAG
+205,C52:2 TAG*
+206,C52:4 TAG
+207,C52:1 TAG*
+208,C52:3 TAG
+209,C52:0 TAG*
+210,C52:2 TAG
+211,C52:1 TAG
+212,C52:0 TAG
+213,C53:3 TAG*
+214,C53:3 TAG*
+215,C54:9 TAG
+216,C54:6 TAG*
+217,C54:8 TAG
+218,C54:5 TAG*
+219,C54:7 TAG
+220,C54:4 TAG*
+221,C54:6 TAG
+222,C54:3 TAG*
+223,C54:5 TAG
+224,C54:4 TAG
+225,C54:3 TAG
+226,C54:2 TAG
+227,C54:1 TAG
+228,C55:3 TAG*
+229,C55:2 TAG*
+230,C56:6 TAG*
+231,C56:7 TAG
+232,C56:4 TAG*
+233,C56:6 TAG
+234,C56:3 TAG*
+235,C56:5 TAG
+236,C56:2 TAG*
+237,C56:4 TAG
+238,C56:1 TAG*
+239,C56:3 TAG
+240,C56:2 TAG
+241,C56:1 TAG
+242,C58:7 TAG
+243,C58:6 TAG
+244,propionate
+245,alanine
+246,oxalate
+247,lactate
+248,2-aminobutyric acid
+249,malonate
+250,alpha-hydroxybutyrate
+251,serine
+252,glycerate
+253,pyrocatechol
+254,uracil
+255,proline
+256,alpha-ketoisovalerate
+257,caproic acid
+258,valine
+259,succite
+260,hydroxyisovaleric acid
+261,threonine
+262,4-hydroxybenzaldehyde
+263,nicotinate
+264,4-methylcatechol
+265,taurine
+266,thymine
+267,acetylalanine
+268,leucine
+269,asparagine
+270,aspartate
+271,malate
+272,adenine
+273,erythronic acid
+274,hypoxanthine
+275,phenylacetate
+276,salicylate
+277,4-nitrophenol
+278,caprylic acid
+279,alpha-ketoglutarate
+280,2-methylglutaric acid
+281,glutamine
+282,glutamate
+283,2-hydroxyglutarate
+284,methionine
+285,tartarate
+286,xylose
+287,hydrocinnamic acid
+288,guanine
+289,xanthine
+290,ribitol
+291,dihydroxybenzoic acid
+292,histidine
+293,orotate
+294,imidazolelactate
+295,3-methyladipate-pimelate
+296,levoglucosan
+297,acesulfame
+298,fucose
+299,phenylalanine
+300,L-phenyllactic acid
+301,urate
+302,shikimate
+303,suberate
+304,arginine
+305,citrulline
+306,ascorbate
+307,tyrosine
+308,homovanillate
+309,sorbitol
+310,saccharin
+311,4-pyridoxate
+312,azelaic acid
+313,N-acetylglutamate
+314,citrate
+315,glucurote
+316,sebacate
+317,tryptophan
+318,1-3-7-trimethylurate
+319,pantothete
+320,ethyl glucuronide
+321,"1,2,3,4-tetrahydro-1-methyl-beta-carboline-3-carboxylic acid"
+322,cystine
+323,pentadecanoate
+324,uridine
+325,pseudouridine
+326,deoxyinosine
+327,inosine
+328,heptadecanoate
+329,guanosine
+330,eicosapentaenoic acid
+331,docosapentaenoate
+332,lactose
+333,riboflavin
+334,lithocholate
+335,linoleoyl ethanolamide
+336,cholate
+337,glycocholate
+338,putrescine
+339,alanine
+340,beta-alanine
+341,choline
+342,serine
+343,cytosine
+344,histamine
+345,creatinine
+346,N-acetylputrescine
+347,proline
+348,valine
+349,betaine
+350,threonine
+351,trimethylbenzene*
+352,nicotinic acid
+353,taurine
+354,pyroglutamic acid
+355,pipecolic acid
+356,N-methylproline
+357,N-acetylputrescine
+358,hydroxyproline
+359,creatine
+360,leucine
+361,isoleucine
+362,asparagine
+363,ornithine
+364,hypoxanthine
+365,1-methylnicotinamide
+366,trigonelline
+367,2-hydroxyphenethylamine
+368,urocanic acid
+369,imidazole propionate
+370,proline betaine
+371,4-guanidinobutanoic acid
+372,butyrobetaine
+373,acetylcholine
+374,glutamine
+375,lysine
+376,glutamate
+377,methionine
+378,triethanolamine
+379,4-hydroxy-3-methylacetophenone
+380,pyridoxamine
+381,methylpyridonecarboxamide
+382,carnitine
+383,methionine sulfoxide
+384,1-methylguanine
+385,7-methylguanine
+386,phenylalanine
+387,3-methylxanthine
+388,pyridoxamine
+389,3-methylhistidine
+390,arginine
+391,dimethyllysine
+392,citrulline
+393,tyrosine
+394,N-acetylspermidine
+395,NMMA
+396,trimethyllysine
+397,kynurenic acid
+398,N-acetylglutamic acid
+399,caffeine
+400,N-acetylhistidine
+401,5-acetylamino-6-amino-3-methyluracil
+402,ADMA
+403,C2 carnitine
+404,tryptophan
+405,N-acetylglutamic acid
+406,"L-1,2,3,4-tetrahydro-beta-carboline-3-carboxylic acid*"
+407,N-acetyl-L-arginine
+408,pantothenate
+409,carnosine
+410,C4 carnitine
+411,geranyl acetoacetate*
+412,geranyl acetoacetate*
+413,anserine
+414,2-deoxyadenosine
+415,deoxyinosine
+416,C3-DC-CH3 carnitine
+417,thiamine
+418,atenolol
+419,inosine
+420,threosphingosine
+421,ethyl 9-hexadecenoate
+422,8-hydroxy-deoxyguanosine
+423,piperine
+424,diacetylspermine
+425,threosphingosine
+426,sphinganine
+427,phytosphingosine
+428,linoleoyl ethanolamide
+429,5alpha-cholestanol
+430,C14 carnitine
+431,C16 carnitine
+432,C18:2 carnitine
+433,C18:1 carnitine
+434,C18 carnitine
+435,C20:4 carnitine
+436,C16:0 LPE
+437,C20 carnitine
+438,C16:1 LPC plasmalogen*
+439,C18:1 LPC plasmalogen*
+440,C18:1 LPC*
+441,C18:0 LPC
+442,bilirubin
+443,urobilin*
+444,C16:0 SM
+445,C36:2 PC*

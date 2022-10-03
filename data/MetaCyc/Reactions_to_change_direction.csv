@@ -1,0 +1,358 @@
+Reaction;Direction
+[(1->4)-beta-D-mannosyl]n + phosphate <--> [(1->4)-beta-D-mannosyl]n-1 + alpha-D-mannose 1-phosphate;REVERSIBLE
+a (1->2)-beta-D-mannan oligosaccharide + phosphate <--> a (1->2)-beta-D-mannan oligosaccharide + alpha-D-mannose 1-phosphate;REVERSIBLE
+beta-D-mannosyl-(1->4)-D-glucose + phosphate <--> D-glucopyranose + alpha-D-mannose 1-phosphate;REVERSIBLE
+D-cellobiose <--> beta-D-glucosyl-(1->4)-D-mannose;REVERSIBLE
+beta-1,4-D-mannobiose <--> beta-D-mannosyl-(1->4)-D-glucose;REVERSIBLE
+2-O-(alpha-D-glucopyranosyl)-D-glycerate + GDP-alpha-D-mannose <--> 2-[2-O-(alpha-D-mannopyranosyl)-(1->2)-alpha-D-glucopyranosyl]-D-glycerate + GDP + H+;REVERSIBLE
+(S)-cathinone + NADH + H+ -> (1R,2S)-norephedrine + NAD+;PHYSIOL-RIGHT-TO-LEFT
+(S)-cathinone + NADH + H+ -> (1S,2S)-norpseudoephedrine + NAD+;PHYSIOL-RIGHT-TO-LEFT
+10-methylideneoctadecanoate + NADPH + H+ -> 10-methylstearate + NADP+;PHYSIOL-RIGHT-TO-LEFT
+a 2,3-dihydroxybenzoyl-L-threonyl-[L-threonyl-carrier protein] -> a 2,3-dihydroxybenzoylmethyloxazolinyl-[L-threonyl-carrier protein] + H2O;PHYSIOL-RIGHT-TO-LEFT
+2,4,6-trinitrotoluene + 2 NADPH + 2 H+ -> 4-hydroxylamino-2,6-dinitrotoluene + 2 NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+2-deoxy-2,3-dehydro-N-acetylneuraminate + H2O -> N-acetyl-alpha-neuraminate;PHYSIOL-RIGHT-TO-LEFT
+2-keto-L-gulonate + NADPH + H+ -> L-idonate + NADP+;PHYSIOL-RIGHT-TO-LEFT
+3-hydroxykynurenate + NADPH + H+ -> 3-hydroxyquinaldate + NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+3-oxochol-4,22-dien-24-oyl-CoA + H2O -> 22-hydroxy-3-oxochol-4-en-24-oyl-CoA;PHYSIOL-RIGHT-TO-LEFT
+3-oxocholest-4,24-dien-26-oyl-CoA + H2O -> 24-hydroxy-3-oxocholest-4-en-26-oyl-CoA;PHYSIOL-RIGHT-TO-LEFT
+4-(methylsulfanyl)-2-oxobutanoate + NADPH + H+ -> (2R)-2-hydroxy-4-(methylsulfanyl)butanoate + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(E)-caffeoyl-CoA + H2O -> 3-(3,4-dihydroxyphenyl)-3-hydroxypropanoate;PHYSIOL-RIGHT-TO-LEFT
+5-amino-5-deoxy-3-dehydroshikimate + NADH + H+ -> 5-amino-5-deoxyshikimate + NAD+;PHYSIOL-RIGHT-TO-LEFT
+5-formyl-3-hydroxy-2-methylpyridine-4-carboxylate + NADH + H+ -> 4-pyridoxate + NAD+;PHYSIOL-RIGHT-TO-LEFT
+8beta-hydroxyfusicocca-1,10(14)-diene-16-al + NAD(P)H + H+ -> fusicocca-1,10(14)-diene-8beta,16-diol + NAD(P)+;PHYSIOL-RIGHT-TO-LEFT
+N-ethylmaleimide + NADPH + H+ -> N-ethylsuccinimide + NADP+;PHYSIOL-RIGHT-TO-LEFT
+CDP-4-dehydro-6-deoxy-alpha-D-gulose + NADPH + H+ -> CDP-6-deoxy-alpha-D-gulose + NADP+;PHYSIOL-RIGHT-TO-LEFT
+4-O-methyl-D-myo-inosose + NADPH + H+ -> D-pinitol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+a C-nitro compound + 2 NAD(P)H + 2 H+ -> a hydroxylamino group-containing compound + 2 NAD(P)+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+furfural + NADH + H+ -> furfuryl alcohol + NAD+;PHYSIOL-RIGHT-TO-LEFT
+2 monodehydroascorbate radical + NAD(P)H -> 2 L-ascorbate + NAD(P)+ + H+;PHYSIOL-RIGHT-TO-LEFT
+intermediate I + NADPH + H+ -> intermediate II + NADP+;PHYSIOL-RIGHT-TO-LEFT
+intermediate II + NADPH + H+ -> stemmadenine + NADP+;PHYSIOL-RIGHT-TO-LEFT
+UDP-4-dehydro-beta-L-rhamnose + NADPH + H+ -> UDP-beta-L-rhamnose + NADP+;PHYSIOL-RIGHT-TO-LEFT
+2 an oxidized c-type cytochrome + arsenous acid + H2O -> 2 a reduced c-type cytochrome + arsenate + 4 H+;PHYSIOL-RIGHT-TO-LEFT
+a reduced rusticyanin + an oxidized CycA1 cytochrome -> a reduced CycA1 cytochrome + an oxidized rusticyanin;PHYSIOL-RIGHT-TO-LEFT
+dTDP-3-amino-4-dehydro-2,3,6-trideoxy-beta-L-glucose + NADPH + H+ -> dTDP-L-daunosamine + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(2S,4S)-4-hydroxy-2,3,4,5-tetrahydrodipicolinate + NAD+ -> dipicolinate + NADH + H+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+(11S,16S)-7-oxo-ent-kauran-11,16-epoxy-19-oate + NADPH + H+ -> (7R,11S,16S)-7-hydroxy-ent-kauran-11,16-epoxy-19-oate + NADP+;PHYSIOL-RIGHT-TO-LEFT
+13(S)-HPOTE + NADPH + H+ -> 13(S)-HOT + NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+2 a ferrohemoglobin + hydroxylamine + 2 H+ -> 2 a ferrihemoglobin + ammonium + OH-;PHYSIOL-RIGHT-TO-LEFT
+a 3,5,7,9,11,13,15-hepta-oxo-hexadecanoyl-[PKS-acp] + NADPH + H+ -> 9-hydroxy-3,5,7,11,13,15-hexaoxohexadecanoyl-[PKS-acp] + NADP+;PHYSIOL-RIGHT-TO-LEFT
+methylglyoxal + NADPH + H+ -> hydroxyacetone + NADP+;PHYSIOL-RIGHT-TO-LEFT
+2 an oxidized c-type cytochrome + nitrite + H2O -> 2 a reduced c-type cytochrome + nitrate + 2 H+;PHYSIOL-RIGHT-TO-LEFT
+a ferrohemoglobin + nitrite + H+ -> a ferrihemoglobin + nitric oxide + OH-;PHYSIOL-RIGHT-TO-LEFT
+norcraugsodine + NADPH + H+ -> norbelladine + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(4aS,10bR)-noroxomaritidine + NADPH + H+ -> (10bR,4aS)-oxomaritinamine + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(4aR,10bS)-noroxomaritidine + NADPH + H+ -> (10bS,4aR)-oxomaritinamine + NADP+;PHYSIOL-RIGHT-TO-LEFT
+C-phycoerythrin beta-subunit + (3Z)-phycoerythrobilin -> [C-phycoerythrin beta-subunit]-Cys84-phycoerythrobilin;PHYSIOL-RIGHT-TO-LEFT
+solasod-3-one + NADPH + H+ -> soladulcidine + NADP+;PHYSIOL-RIGHT-TO-LEFT
+solanid-3-one + NADH + H+ -> demissidine + NAD+;PHYSIOL-RIGHT-TO-LEFT
+sulfoacetaldehyde + NADH + H+ -> isethionate + NAD+;PHYSIOL-RIGHT-TO-LEFT
+syringaresinol + NADPH + H+ -> 5,5'-dimethoxylariciresinol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+a uridine in tRNA + NADPH + H+ -> a 5,6-dihydrouridine in tRNA + NADP+;PHYSIOL-RIGHT-TO-LEFT
+tomatid-4-en-3-one + NADPH + H+ -> tomatid-3-one + NADP+;PHYSIOL-RIGHT-TO-LEFT
+galactitol + NADP+ <--> D-galactopyranose + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+hydrogencarbonate + H+ <--> CO2 + H2O;PHYSIOL-RIGHT-TO-LEFT
+(2R)-3-sulfolactate + NAD(P)+ <--> 3-sulfopyruvate + NAD(P)H + H+;PHYSIOL-RIGHT-TO-LEFT
+a 2,3,4-saturated (3R)-3-hydroxyacyl-CoA <--> a (2E)-2-enoyl-CoA + H2O;PHYSIOL-RIGHT-TO-LEFT
+(R)-reticuline + NADP+ <--> 1,2-dehydroreticuline + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+11beta-hydroxyandrostenedione + NADP+ <--> 11-oxoandrostenedione + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+11beta-hydroxytestosterone + NADP+ <--> 11-oxotestosterone + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+(20S)-17,20-dihydroxypregn-4-en-3-one + NAD(P)+ <--> 17-alpha-hydroxyprogesterone + NAD(P)H + H+;PHYSIOL-RIGHT-TO-LEFT
+L-2-aminoadipate + 2-oxoglutarate <--> L-glutamate + 2-oxoadipate;PHYSIOL-RIGHT-TO-LEFT
+(+)-5-chloromuconolactone <--> 2-chloro-cis,cis-muconate + H+;PHYSIOL-RIGHT-TO-LEFT
+(4S)-4-hydroxy-2-oxoglutarate <--> glyoxylate + pyruvate;PHYSIOL-RIGHT-TO-LEFT
+2-oxoglutarate + 2 an oxidized ferredoxin [iron-sulfur] cluster + coenzyme A <--> succinyl-CoA + CO2 + 2 a reduced ferredoxin [iron-sulfur] cluster + H+;PHYSIOL-RIGHT-TO-LEFT
+2-phenylethanol + NAD+ <--> phenylacetaldehyde + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+3beta-hydroxy-5beta-pregnane-20-one + NADP+ <--> 5beta-pregnan-3,20 dione + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+3-[(3aS,4S,5R,7aS)-5-hydroxy-7a-methyl-1-oxo-octahydro-1H-inden-4-yl]propanoyl-CoA + NADP+ <--> 3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl-CoA + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+(2R)-2-chloro-2,5-dihydro-5-oxofuran-2-acetate <--> 3-chloro-cis,cis-muconate + H+;PHYSIOL-RIGHT-TO-LEFT
+isocholate + NAD+ <--> 3-dehydrocholate + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+deoxycholate + NAD+ <--> 3-dehydrodeoxycholate + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+lithocholate + NAD+ <--> 3-dehydrolithocholate + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+3-hydroxypropanoate + NAD+ <--> 3-oxopropanoate + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+3-methylbutanol + NAD+ <--> 3-methylbutanal + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+isochenodeoxycholate + NAD+ <--> 7alpha-hydroxy-3-oxo-5beta-cholanate + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+isodeoxycholate + NAD+ <--> 3-dehydrodeoxycholate + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+acetyl-CoA + propanoyl-CoA <--> 3-oxopentanoyl-CoA + coenzyme A;PHYSIOL-RIGHT-TO-LEFT
+24-methylidenelophenol <--> 4alpha-methylfecosterol;PHYSIOL-RIGHT-TO-LEFT
+4alpha-methyl-5alpha-cholesta-7,24-dien-3beta-ol <--> 4alpha-methyl-zymosterol;PHYSIOL-RIGHT-TO-LEFT
+2-hydroxy-4-oxobutane-1,2,4-tricarboxylate <--> (1E,3E)-4-hydroxybuta-1,3-diene-1,2,4-tricarboxylate + H2O;PHYSIOL-RIGHT-TO-LEFT
+5-alpha-androstan-3alpha,17beta-diol + NAD(P)+ <--> 5alpha-dihydrotestosterone + NAD(P)H + H+;PHYSIOL-RIGHT-TO-LEFT
+D-gluconate + NAD(P)+ <--> 5-dehydro-D-gluconate + NAD(P)H + H+;PHYSIOL-RIGHT-TO-LEFT
+ursodeoxycholate + NADP+ <--> 7-oxolithocholate + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+N-acetyl-L-ornithine + 2-oxoglutarate <--> L-glutamate + N-acetyl-L-glutamate 5-semialdehyde;PHYSIOL-RIGHT-TO-LEFT
+all-trans-retinol + NADP+ <--> all-trans-retinal + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+(2R,3S)-2-methylisocitrate <--> cis-2-methylaconitate + H2O;PHYSIOL-RIGHT-TO-LEFT
+ATP + H2O + 3 H+ <--> ADP + phosphate + 4 H+;PHYSIOL-RIGHT-TO-LEFT
+(R)-lactate + NAD+ <--> pyruvate + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+3-hydroxypropanoyl-CoA <--> acryloyl-CoA + H2O;PHYSIOL-RIGHT-TO-LEFT
+2 an oxidized ferredoxin [iron-sulfur] cluster + H2 <--> 2 a reduced ferredoxin [iron-sulfur] cluster + 2 H+;PHYSIOL-RIGHT-TO-LEFT
+GDP-alpha-D-perosamine + 2-oxoglutarate <--> GDP-4-dehydro-alpha-D-rhamnose + L-glutamate;PHYSIOL-RIGHT-TO-LEFT
+L-arabinitol + NADP+ <--> L-arabinopyranose + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+L-arginine <--> L-arginine;PHYSIOL-RIGHT-TO-LEFT
+L-galactono-1,4-lactone + H2O <--> L-galactonate + H+;PHYSIOL-RIGHT-TO-LEFT
+(S)-propane-1,2-diol + NAD+ <--> (S)-lactaldehyde + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+glycine + hydroxypyruvate <--> glyoxylate + L-serine;PHYSIOL-RIGHT-TO-LEFT
+"NADP+ + H2 <--> NADPH + H+";PHYSIOL-RIGHT-TO-LEFT
+L-ascorbate + NADP+ <--> dehydroascorbate + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+3beta-hydroxy-5alpha-pregnane-20-one + NADP+ <--> 5alpha-dihydroprogesterone + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+(S)-malate + NAD(P)+ <--> oxaloacetate + NAD(P)H + H+;PHYSIOL-RIGHT-TO-LEFT
+UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-idosamine + 2-oxoglutarate <--> UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-hex-4-ulose + L-glutamate;PHYSIOL-RIGHT-TO-LEFT
+UDP-2-acetamido-3-amino-2,3-dideoxy-alpha-D-glucopyranose + 2-oxoglutarate + H+ <--> UDP-N-acetyl-3-dehydro-alpha-D-glucosamine + L-glutamate;PHYSIOL-RIGHT-TO-LEFT
+ATP + acetate <--> ADP + acetyl phosphate;PHYSIOL-RIGHT-TO-LEFT
+acetyl-CoA + acetoacetate <--> acetate + acetoacetyl-CoA;PHYSIOL-RIGHT-TO-LEFT
+2 acetyl-CoA <--> acetoacetyl-CoA + coenzyme A;PHYSIOL-RIGHT-TO-LEFT
+succinyl-CoA + acetate <--> succinate + acetyl-CoA;PHYSIOL-RIGHT-TO-LEFT
+a primary alcohol + NAD+ <--> an aldehyde + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+5-phospho-beta-D-ribosylamine + L-glutamate + diphosphate <--> 5-phospho-alpha-D-ribose 1-diphosphate + L-glutamine + H2O;PHYSIOL-RIGHT-TO-LEFT
+arsenous acid <--> arsenous acid;PHYSIOL-RIGHT-TO-LEFT
+L-aspartate 4-semialdehyde + NADP+ + phosphate <--> L-aspartyl-4-phosphate + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+butan-1-ol + NADP+ <--> 1-butanal + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+butan-1-ol + NAD+ <--> 1-butanal + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+ammonium + hydrogencarbonate + ATP <--> carbamoyl phosphate + ADP + H2O + H+;PHYSIOL-RIGHT-TO-LEFT
+carbon monoxide + 2 an oxidized ferredoxin [iron-sulfur] cluster + H2O <--> CO2 + 2 a reduced ferredoxin [iron-sulfur] cluster + 2 H+;PHYSIOL-RIGHT-TO-LEFT
+(1R,2R)-cyclohexa-3,5-diene-1,2-diol + NADP+ <--> catechol + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+corticosterone + NADP+ <--> 11-dehydrocorticosterone + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+cortisol + NADP+ <--> cortisone + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+O-succinyl-L-homoserine + L-cysteine <--> L-cystathionine + succinate + H+;PHYSIOL-RIGHT-TO-LEFT
+dTDP-4-amino-4,6-dideoxy-alpha-D-galactose + 2-oxoglutarate <--> dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose + L-glutamate;PHYSIOL-RIGHT-TO-LEFT
+(S)-dihydroorotate + H2O <--> N-carbamoyl-L-aspartate + H+;PHYSIOL-RIGHT-TO-LEFT
+[DsrC]-trisulfide + NAD+ + 3 H2O <--> sulfite + [DsrC protein]-dithiol + NADH + 3 H+;PHYSIOL-RIGHT-TO-LEFT
+esculin + H2O <--> esculetin + D-glucopyranose;PHYSIOL-RIGHT-TO-LEFT
+17beta-estradiol + NADP+ <--> estrone + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+ethanol + NAD+ <--> acetaldehyde + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+2 a reduced ferredoxin [iron-sulfur] cluster + NADP+ + H+ <--> 2 an oxidized ferredoxin [iron-sulfur] cluster + NADPH;PHYSIOL-RIGHT-TO-LEFT
+coenzyme B + 2 an oxidized ferredoxin [iron-sulfur] cluster + coenzyme M <--> CoB-CoM heterodisulfide + 2 a reduced ferredoxin [iron-sulfur] cluster + 2 H+;PHYSIOL-RIGHT-TO-LEFT
+protoheme + 2 H+ <--> protoporphyrin IX + Fe2+;PHYSIOL-RIGHT-TO-LEFT
+a reduced flavodoxin + NADP+ <--> an oxidized flavodoxin + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+(S)-malate <--> fumarate + H2O;PHYSIOL-RIGHT-TO-LEFT
+L-gulono-1,4-lactone + H2O <--> L-gulonate + H+;PHYSIOL-RIGHT-TO-LEFT
+glycerol <--> glycerol;PHYSIOL-RIGHT-TO-LEFT
+ethylene glycol + NAD+ <--> glycolaldehyde + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+(R)-S-lactoylglutathione <--> methylglyoxal + glutathione;PHYSIOL-RIGHT-TO-LEFT
+2 an oxidized ferredoxin [iron-sulfur] cluster + NAD+ + 2 H2 <--> 2 a reduced ferredoxin [iron-sulfur] cluster + NADH + 3 H+;PHYSIOL-RIGHT-TO-LEFT
+(R)-mevalonate + coenzyme A + 2 NADP+ <--> (S)-3-hydroxy-3-methylglutaryl-CoA + 2 NADPH + 2 H+;PHYSIOL-RIGHT-TO-LEFT
+acetoacetyl-CoA + acetyl-CoA + H2O <--> (S)-3-hydroxy-3-methylglutaryl-CoA + coenzyme A + H+;PHYSIOL-RIGHT-TO-LEFT
+phosphinate <--> phosphinate;PHYSIOL-RIGHT-TO-LEFT
+isobutanol + NAD+ <--> isobutanal + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+dihydrolipoamide + NADP+ <--> lipoamide + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+dihydrolipoate + NADP+ <--> (R)-lipoate + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+arsenic trioxide <--> arsenic trioxide;PHYSIOL-RIGHT-TO-LEFT
+(S)-malate + NAD+ <--> oxaloacetate + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+(S)-malate + ATP + coenzyme A <--> (S)-malyl-CoA + ADP + phosphate;PHYSIOL-RIGHT-TO-LEFT
+(S)-malyl-CoA <--> glyoxylate + acetyl-CoA;PHYSIOL-RIGHT-TO-LEFT
+a 5,10-methenyltetrahydrofolate + H2O <--> an N10-formyltetrahydrofolate + H+;PHYSIOL-RIGHT-TO-LEFT
+a 5-methyltetrahydrofolate + 2 a reduced ferredoxin [iron-sulfur] cluster + 2 NAD+ <--> a 5,10-methylenetetrahydrofolate + 2 an oxidized ferredoxin [iron-sulfur] cluster + 2 NADH;PHYSIOL-RIGHT-TO-LEFT
+3-phenyl-2-oxopropanoate <--> enol-phenylpyruvate;PHYSIOL-RIGHT-TO-LEFT
+oxaloacetate + GTP <--> CO2 + phosphoenolpyruvate + GDP;PHYSIOL-RIGHT-TO-LEFT
+oxaloacetate + ITP <--> CO2 + phosphoenolpyruvate + IDP;PHYSIOL-RIGHT-TO-LEFT
+5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + 2 H+ <--> 5-amino-1-(5-phospho-beta-D-ribosyl)imidazole + CO2;PHYSIOL-RIGHT-TO-LEFT
+putrescine + L-ornithine <--> putrescine + L-ornithine;PHYSIOL-RIGHT-TO-LEFT
+"NADPH + NAD+ + H+ <--> NADP+ + NADH + H+";PHYSIOL-RIGHT-TO-LEFT
+pyridoxine + NADP+ <--> pyridoxal + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+formate + acetyl-CoA <--> pyruvate + coenzyme A;PHYSIOL-RIGHT-TO-LEFT
+pyruvate + 2 an oxidized ferredoxin [iron-sulfur] cluster + coenzyme A <--> acetyl-CoA + CO2 + 2 a reduced ferredoxin [iron-sulfur] cluster + H+;PHYSIOL-RIGHT-TO-LEFT
+arsenous acid + an oxidized unknown electron carrier + H2O <--> arsenate + a reduced unknown two electron carrier + 2 H+;PHYSIOL-RIGHT-TO-LEFT
+succinate + ATP + coenzyme A <--> succinyl-CoA + ADP + phosphate;PHYSIOL-RIGHT-TO-LEFT
+sulfate + ATP + H+ <--> adenosine 5'-phosphosulfate + diphosphate;PHYSIOL-RIGHT-TO-LEFT
+tomatidine + NADP+ <--> tomatid-3-one + NADPH + H+;PHYSIOL-RIGHT-TO-LEFT
+alpha-maltose <--> alpha,alpha-trehalose;PHYSIOL-RIGHT-TO-LEFT
+L-tyrosine + 3-phenyl-2-oxopropanoate <--> 3-(4-hydroxyphenyl)pyruvate + L-phenylalanine;PHYSIOL-RIGHT-TO-LEFT
+Delta24-25-sitosterol + NADPH + H+ -> sitosterol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(+)-5-chloromuconolactone -> cis-dienelactone + chloride + H+;PHYSIOL-RIGHT-TO-LEFT
+(10bR,4aS)-oxomaritinamine + a reduced unknown two electron carrier -> maritinamine + an oxidized unknown electron carrier;PHYSIOL-RIGHT-TO-LEFT
+(10bS,4aR)-oxomaritinamine + a reduced unknown two electron carrier -> elwesine + an oxidized unknown electron carrier;PHYSIOL-RIGHT-TO-LEFT
+(11R)-dihydroartemisinic aldehyde + NADPH + H+ -> (11R)-dihydroartemisinic alcohol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(15Z)-tetracosenoyl-CoA + NADH + H+ -> (15Z)-tetracos-15-enal + coenzyme A + NAD+;RIGHT-TO-LEFT
+(2-methylsulfanyl)acetaldehyde + NADH + H+ -> (2-methylsulfanyl)ethanol + NAD+;RIGHT-TO-LEFT
+(20alphaS)-19,20--dihydrovomilenine + NADPH + H+ -> 17-O-acetylnorajmaline + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(22alpha)-hydroxy-campest-4-en-3-one + NADPH + H+ -> (22S,24R)-22-hydroxy-5alpha-ergostan-3-one + NADP+;RIGHT-TO-LEFT
+(22S,24R)-22-hydroxy-5alpha-ergostan-3-one + a reduced unknown two electron carrier -> 6-deoxocathasterone + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+(22R,23R)-22,23-dihydroxy-campest-4-en-3-one + a reduced unknown two electron carrier -> 3-dehydro-6-deoxoteasterone + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+(2E)-3-[(3aS,4S,5R,7aS)-5-hydroxy-7a-methyl-1-oxo-octahydro-1H-inden-4-yl]prop-2-enoyl-CoA + H2O -> 3-[(3aS,4S,5R,7aS)-5-hydroxy-7a-methyl-1-oxo-octahydro-1H-inden-4-yl]-3-hydroxypropanoyl-CoA;RIGHT-TO-LEFT
+(2E)-octadec-2-enoyl-CoA + NADPH + H+ -> stearoyl-CoA + NADP+;RIGHT-TO-LEFT
+(3E)-2-oxohex-3-enedioate + NADH + H+ -> 2-oxoadipate + NAD+;RIGHT-TO-LEFT
+(3Z)-hexenal + NADH + H+ -> (3Z)-hex-3-en-1-ol + NAD+;RIGHT-TO-LEFT
+(4aR,10bS)-noroxomaritidine + a reduced unknown two electron carrier -> (10bS, 4aR)-normaritidine + an oxidized unknown electron carrier;PHYSIOL-RIGHT-TO-LEFT
+(4aS,10bR)-noroxomaritidine + a reduced unknown two electron carrier -> (-)-8-demethylmaritidine + an oxidized unknown electron carrier;PHYSIOL-RIGHT-TO-LEFT
+(5alpha)-campestan-3-one + a reduced unknown two electron carrier -> campestanol + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+(6R)-6-lactoyl-5,6,7,8-tetrahydropterin + NADPH + H+ -> (6R)-L-erythro-5,6,7,8-tetrahydrobiopterin + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(6R)-6-lactoyl-5,6,7,8-tetrahydropterin + NADPH + H+ -> (6R)-L-threo-5,6,7,8-tetrahydrobiopterin + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(E)-2-pentenal + NADPH + H+ -> (E)-2-pentenol + NADP+;RIGHT-TO-LEFT
+(S)-dihydrodaidzein + NADPH + H+ -> (3S,4R)-tetrahydrodaidzein + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(Z,Z)-biliverdin-IX alpha + 2 a reduced ferredoxin [iron-sulfur] cluster + 2 H+ -> mesobiliverdin + 2 an oxidized ferredoxin [iron-sulfur] cluster;PHYSIOL-RIGHT-TO-LEFT
+(R)-lactaldehyde + NADPH + H+ -> (R)-propane-1,2-diol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+(indol-3-yl)acetaldehyde + NAD(P)H + H+ -> (indol-3-yl)ethanol + NAD(P)+;RIGHT-TO-LEFT
+(indol-3-yl)glyoxal + NADH + H+ -> 2-hydroxy-1-(indol-3-yl)ethanone + NAD+;RIGHT-TO-LEFT
+1-(beta-D ribofuranosyl)nicotinamide + phosphate -> nicotinamide + alpha-D-ribose-1-phosphate + H+;PHYSIOL-RIGHT-TO-LEFT
+1-chloro-4-nitrobenzene + NADPH + H+ -> 1-chloro-4-nitrosobenzene + NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+1-chloro-4-nitrosobenzene + NADPH + H+ -> 1-chloro-4-hydroxylaminobenzene + NADP+;PHYSIOL-RIGHT-TO-LEFT
+1-hexanal + NADH + H+ -> hexan-1-ol + NAD+;RIGHT-TO-LEFT
+1-hydroxy-2-oxo-3-sulfopropane + NADH + H+ -> (2R)-3-sulfopropanediol + NAD+;RIGHT-TO-LEFT
+1-hydroxy-6-oxocyclohex-2-ene-1-carboxylate + benzyl alcohol + H+ -> benzyl 1-hydroxy-6-oxocyclohex-2-ene-1-carboxylate + H2O;RIGHT-TO-LEFT
+1-piperideine 6-carboxylate + NADPH + 2 H+ -> L-pipecolate + NADP+;PHYSIOL-RIGHT-TO-LEFT
+2 a reduced cytochrome cm552 + a ubiquinone + 2 H+ -> 2 an oxidized cytochrome cm552 + an ubiquinol;PHYSIOL-RIGHT-TO-LEFT
+2,4,6-trinitrotoluene + NADPH + H+ -> 4-nitroso-2,6-dinitrotoluene + NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+2,5-didehydro-D-gluconate + NAD(P)H + H+ -> 2-keto-L-gulonate + NAD(P)+;PHYSIOL-RIGHT-TO-LEFT
+2,5-didehydro-D-gluconate + NADPH + H+ -> 5-dehydro-D-gluconate + NADP+;RIGHT-TO-LEFT
+2,6-dichlorobenzoquinone + FADH2 -> 2,6-dichlorohydroquinone + FAD + 2 H+;PHYSIOL-RIGHT-TO-LEFT
+2-(8-hydroxy-2-oxotridecyl)-6-oxopyran-4-olate + NADPH + H+ -> 2-(2,8-dihydroxytridecyl)-6-oxopyran-4-olate + NADP+;RIGHT-TO-LEFT
+2-(geranylfernesyl)phenazine + a reduced unknown two electron carrier -> methanophenazine + an oxidized unknown electron carrier;PHYSIOL-RIGHT-TO-LEFT
+2-chloro-6-hydroxy-1,4-benzoquinone + FADH2 -> 2-chlorobenzene-1,4,6-triol + FAD + H+;PHYSIOL-RIGHT-TO-LEFT
+2-dehydrolubimin + a reduced unknown two electron carrier -> lubimin + an oxidized unknown electron carrier;PHYSIOL-RIGHT-TO-LEFT
+2-methyl-1,5-dinitro-3-nitrosobenzene + a reduced unknown two electron carrier -> 2-hydroxylamino-4,6-dinitrotoluene + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+2-methyl-3-butenoyl-CoA + a reduced unknown two electron carrier -> (2S)-2-methylbutanoyl-CoA + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+2-oxo-2-[4,5,7,10-tetrahydroxy-3-(3-oxobutanoyl)anthracen-2-yl]acetyl-[PKS-acp] + NADPH + H+ -> (2S)-2-hydroxy-2-[4,5,7,10-tetrahydroxy-3-(3-oxobutanoyl)anthracen-2-yl]acetyl-[PKS-acp] + NADP+;RIGHT-TO-LEFT
+2-oxoadipate + acetyl-CoA + H2O -> dihomocitrate + coenzyme A + H+;RIGHT-TO-LEFT
+2-oxopimelate + acetyl-CoA + H2O -> trihomocitrate + coenzyme A + H+;RIGHT-TO-LEFT
+2-oxovalerate -> 3-methyl-2-oxobutanoate;RIGHT-TO-LEFT
+24-methyldesmosterol + NADPH + H+ -> 24-epi-campesterol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+24-methyldesmosterol + NADPH + H+ -> campesterol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+3 a ferrohemoglobin + nitric oxide + 3 H+ -> 3 a ferrihemoglobin + hydroxylamine;PHYSIOL-RIGHT-TO-LEFT
+3,3'-disulfanediyldipropanoate + NADH + H+ -> 2 3-sulfanylpropanoate + NAD+;RIGHT-TO-LEFT
+3,4,3',4'-tetradehydroisozeaxanthin + a reduced unknown two electron carrier -> 4'-hydroxyechinenone + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+3,5,7,9,11,13,15,17,19-nonaoxohenicosanoyl-[acp] + NADPH + H+ -> 9-hydroxy-3,5,7,11,13,15,17,19-octaoxohenicosanoyl-[acp] + NADP+;RIGHT-TO-LEFT
+3,5-diiodo-L-tyrosine + NADPH + H+ -> 3-iodo-L-tyrosine + iodide + NADP+;PHYSIOL-RIGHT-TO-LEFT
+3,6-dichloropyridine-2,5-dione + FADH2 -> 3,6-dichloropyridine-2,5-diol + FAD + H+;PHYSIOL-RIGHT-TO-LEFT
+3-chloro-1-phenyl-1-propanone + NADPH + H+ -> (S)-3-chloro-1-phenyl-1-propanol + NADP+;RIGHT-TO-LEFT
+3-dehydro-2,22,25-deoxyecdysone + a reduced unknown two electron carrier -> 2,22,25-trideoxyecdysone + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+3-dehydro-6-deoxoteasterone + a reduced unknown two electron carrier -> 6-deoxotyphasterol + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+3-dehydro-D-glucopyranose + NADPH + H+ -> D-glucopyranose + NADP+;RIGHT-TO-LEFT
+3-dehydroteasterone + a reduced unknown two electron carrier -> typhasterol + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+3-hydroxylubimin + a reduced unknown two electron carrier -> 3-hydroxy-15-dihydrolubimin + an oxidized unknown electron carrier;PHYSIOL-RIGHT-TO-LEFT
+3-iodo-L-tyrosine + NADPH -> L-tyrosine + iodide + NADP+;PHYSIOL-RIGHT-TO-LEFT
+3-keto-beta-D-galactose + NADPH + H+ -> D-galactopyranose + NADP+;RIGHT-TO-LEFT
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-buta-2-enoyl)-CoA + H2O -> 3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxybutanoyl)-CoA;RIGHT-TO-LEFT
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-hexa-2-enoyl)-CoA + H2O -> 3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyhexanoyl)-CoA;RIGHT-TO-LEFT
+3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(E-octa-2-enoyl)-CoA + H2O -> 3-oxo-2-(cis-2'-pentenyl)-cyclopentane-1-(3R-hydroxyoctanoyl)-CoA;RIGHT-TO-LEFT
+3-oxo-23,24-bisnorchol-4,17(20)-dien-22-oyl-CoA + H2O -> 17-hydroxy-3-oxo-4-pregnane-20-carboxyl-CoA;RIGHT-TO-LEFT
+3-oxooctadecanoyl-CoA + NADPH + H+ -> (3R)-3-hydroxyoctadecanoyl-CoA + NADP+;RIGHT-TO-LEFT
+4-(3-pyridyl)-3-butenoate + a reduced unknown two electron carrier -> 4-(3-pyridyl)-butanoate + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+4-chloro-crotonyl-CoA + CO2 + NADH -> chloroethylmalonyl-CoA + NAD+;PHYSIOL-RIGHT-TO-LEFT
+4-hydroxy-2-methyl-3-oxo-4-farnesyl-3,4-dihydroquinoline-1-oxide + NAD(P)H + H+ -> 3,4-dihydroxy-2-methyl-4-farnesyl-3H-quinolin-1-ium-1-olate + NAD(P)+;PHYSIOL-RIGHT-TO-LEFT
+4-hydroxybenzalacetone + NADPH + H+ -> 4-hydroxyphenylbutan-2-one + NADP+;RIGHT-TO-LEFT
+4-nitroso-2,6-dinitrotoluene + NADPH + H+ -> 4-hydroxylamino-2,6-dinitrotoluene + NADP+;PHYSIOL-RIGHT-TO-LEFT
+4-oxo-4-(3-pyridyl)-butanoate + a reduced unknown two electron carrier -> 4-hydroxy-4-(3-pyridyl)-butanoate + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+5-(3-carboxy-3-oxopropenyl)-4,6-dihydroxypyridine-2-carboxylate + a reduced unknown two electron carrier -> 5-(3-carboxy-3-oxopropyl)-4,6-dihydroxypyridine-2-carboxylate + an oxidized unknown electron carrier;PHYSIOL-RIGHT-TO-LEFT
+5-carboxy-2-methyl-3-oxopentanoyl-CoA + coenzyme A -> succinyl-CoA + propanoyl-CoA;PHYSIOL-RIGHT-TO-LEFT
+5-dehydro-D-gluconate + NADPH + H+ -> D-gluconate + NADP+;RIGHT-TO-LEFT
+5-dehydro-L-gluconate + NADPH + H+ -> D-idonate + NADP+;RIGHT-TO-LEFT
+5-hydroxy-gamma-coniceine + a reduced unknown two electron carrier + H+ -> pseudo-conhydrine + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+5-hydroxymethylfurfural + NADH + H+ -> 2,5-bis-hydroxymethylfuran + NAD+;PHYSIOL-RIGHT-TO-LEFT
+5-phospho-alpha-D-ribose-1-preQ0 + NADPH + 2 H+ -> [(1R,2R,3S,4S)-4-{5-cyano-4-oxo-3H-pyrrolo[2,3-d]pyrimidin-7-yl}-2,3-dihydroxycyclopentyl]methyl phosphate + ammonium + NADP+;RIGHT-TO-LEFT
+6-chloro-3-hydroxypyridine-2,5-dione + NADH + H+ -> 6-chloropyridine-2,3,5-triol + NAD+;PHYSIOL-RIGHT-TO-LEFT
+N-(3-oxobutan-2-yl)acetamide + NADPH + H+ -> N-(3-hydroxybutan-2-yl)acetamide + NADP+;RIGHT-TO-LEFT
+N-[(3S)-3-amino-3-carboxypropyl]-L-histidine + 2-oxoglutarate + NADPH + H+ -> pseudopaline + NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+N-[(3S)-3-amino-3-carboxypropyl]-L-histidine + pyruvate + NADPH + H+ -> yersinopine + NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+S-methyl-L-methionine + pyruvate + NADPH + H+ -> sulfonopine + NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+all-trans-geranylfarnesol + H2O -> 14betaH-scalarane-17alpha-19-diol;RIGHT-TO-LEFT
+all-trans-geranylfarnesol + H2O -> 17(E)-cheilanthenediol;RIGHT-TO-LEFT
+all-trans-geranylfarnesol + H2O -> monocyclic sesterterpenediol;RIGHT-TO-LEFT
+all-trans-geranylfarnesol + H2O -> scalarane-17alpha-19-diol;RIGHT-TO-LEFT
+trans-1,2-dichloroethene + a reduced unknown two electron carrier -> chloroethene + chloride + an oxidized unknown electron carrier + H+;PHYSIOL-RIGHT-TO-LEFT
+D-fructuronate + NADPH + H+ -> D-mannonate + NADP+;RIGHT-TO-LEFT
+D-glucose -> D-glucose;RIGHT-TO-LEFT
+D-ribulose 5-phosphate -> 1-deoxy-D-xylulose 5-phosphate;PHYSIOL-RIGHT-TO-LEFT
+FMN-N5-oxide + NADH + H+ -> FMN + NAD+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+GDP-4-dehydro-6-deoxy-beta-L-galactose + NADPH + H+ -> GDP-beta-L-fucose + NADP+;PHYSIOL-RIGHT-TO-LEFT
+L-2-aminoadipyl-[LYS2 L-2-aminoadipyl-carrier-protein] + NADPH + H+ -> (S)-2-amino-6-oxohexanoate + a holo-[LYS2 L-2-aminoadipyl-carrier-protein] + NADP+;PHYSIOL-RIGHT-TO-LEFT
+L-galactono-1,5-lactone + H2O -> L-galactonate + H+;PHYSIOL-RIGHT-TO-LEFT
+L-glyceraldehyde 3-phosphate + NADPH + H+ -> sn-glycerol 3-phosphate + NADP+;RIGHT-TO-LEFT
+O-[3-nitro-5-(oxidonitroso)-4-oxocyclohex-2-en-1-ylidenenitroso]oxidanidolate + a reduced factor 420 -> O-[5-(hydroxynitroso)-3-(oxidonitroso)-2-oxocyclohexylidenenitroso]oxidanidolate + an oxidized factor 420;RIGHT-TO-LEFT
+UDP-2-acetamido-2,6-dideoxy-alpha-D-xylo-hex-4-ulose + NAD(P)H + H+ -> UDP-N-acetyl-alpha-D-fucosamine + NAD(P)+;RIGHT-TO-LEFT
+UDP-2-acetamido-2,6-dideoxy-beta-L-lyxo-4-hexulose + NAD(P)H + H+ -> UDP-N-acetyl-beta-L-pneumosamine + NAD(P)+;RIGHT-TO-LEFT
+UDP-2-acetamido-2,6-dideoxy-beta-L-lyxo-4-hexulose + NAD(P)H + H+ -> UDP-N-acetyl-beta-L-rhamnosamine + NAD(P)+;RIGHT-TO-LEFT
+UDP-4-dehydro-6-deoxy-alpha-D-glucose + NADPH + H+ -> UDP-beta-L-rhamnose + NADP+;PHYSIOL-RIGHT-TO-LEFT
+a (2E,6Z)-octadecadienoyl-[acp] + NADPH + H+ -> a petroselinoyl-[acp] + NADP+;RIGHT-TO-LEFT
+a (3R)-all-trans-3-hydroxyretinal-[retinoid-binding protein] + NADPH + H+ -> a (3R)-all-trans-3-hydroxyretinol-[retinoid-binding protein] + NADP+;RIGHT-TO-LEFT
+a 3-dehydro-D-glucoside + NADH + H+ -> a D-glucoside + NAD+;PHYSIOL-RIGHT-TO-LEFT
+a 3-oxo-C78-alpha-mycolate-[pks13] + a reduced unknown two electron carrier -> a C78-alpha-mycolate-[pks13] + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+a 3-oxo-C85-cis-methoxy-mycolate-[pks13] + a reduced unknown two electron carrier -> a C85-cis-methoxy-mycolate-[pks13] + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+a 3-oxo-C86-cis-keto-mycolate-[pks13] + a reduced unknown two electron carrier -> a C86-cis-keto-mycolate-[pks13] + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+a 3-oxo-C86-trans-methoxy-mycolate-[pks13] + a reduced unknown two electron carrier -> a C86-trans-methoxy-mycolate-[pks13] + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+a 3-oxo-C87-trans-keto-mycolate-[pks13] + a reduced unknown two electron carrier -> a C87-trans-keto-mycolate-[pks13] + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+a 3-oxoacyl-CoA + [protein]-L-cysteine -> [protein] S-acyl-L-cysteine + acetyl-CoA;PHYSIOL-RIGHT-TO-LEFT
+a C-nitro compound + 2 NADPH + 2 H+ -> a hydroxylamino group-containing compound + 2 NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+a PrdC protein with a selenide-sulfide bridge + NADH + H+ -> a PrdC protein with thiol/selenol residues + NAD+;PHYSIOL-RIGHT-TO-LEFT
+[protein] S-acyl-L-cysteine + coenzyme A -> [protein]-L-cysteine + an acyl-CoA;PHYSIOL-RIGHT-TO-LEFT
+a long-chain fatty acyl-CoA + NADH + H+ -> a long-chain fatty aldehyde + coenzyme A + NAD+;RIGHT-TO-LEFT
+a reduced [peroxiredoxin disulfide reductase] + NAD+ -> an oxidized [peroxiredoxin disulfide reductase] + NADH + H+;PHYSIOL-RIGHT-TO-LEFT
+a reduced azurin + an oxidized c-type cytochrome -> an oxidized azurin + a reduced c-type cytochrome;PHYSIOL-RIGHT-TO-LEFT
+a reduced thioredoxin + an oxidized unknown electron carrier -> an oxidized thioredoxin + a reduced unknown two electron carrier;RIGHT-TO-LEFT
+a very-long-chain fatty acyl-CoA + 2 NADPH + 2 H+ -> a very-long-chain fatty alcohol + coenzyme A + 2 NADP+;RIGHT-TO-LEFT
+a very-long-chain fatty acyl-CoA + NADPH + H+ -> a very-long-chain fatty aldehyde + coenzyme A + NADP+;RIGHT-TO-LEFT
+acrylate + coenzyme A + H+ -> acryloyl-CoA + H2O;PHYSIOL-RIGHT-TO-LEFT
+ammonia + 2-oxoglutarate + NADPH + 2 H+ -> L-glutamate + NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+an all-trans-3-hydroxyretinal-[retinoid-binding protein] + NADPH + H+ -> an all-trans-3-hydroxyretinol-[retinoid-binding protein] + NADP+;RIGHT-TO-LEFT
+an [acetoin dehydrogenase E2 protein] N6-S-acetyldihydrolipoyl-L-lysine + coenzyme A -> acetyl-CoA + an [acetoin dehydrogenase E2 protein] N6-dihydrolipoyl-L-lysine;PHYSIOL-RIGHT-TO-LEFT
+an enone + NADPH + H+ -> a ketone + NADP+;PHYSIOL-RIGHT-TO-LEFT
+an oxidized Cyc1 cytochrome + a reduced rusticyanin -> an oxidized rusticyanin + a reduced Cyc1 cytochrome;PHYSIOL-RIGHT-TO-LEFT
+an oxidized hybrid-cluster protein + NADH -> a reduced hybrid-cluster protein + NAD+;PHYSIOL-RIGHT-TO-LEFT
+andilesin D + a reduced unknown two electron carrier -> andilesin A + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+androstenedione + NADPH + H+ -> 5-beta-androstane-3,17-dione + NADP+;PHYSIOL-RIGHT-TO-LEFT
+anhydrorhodovibrin + H2O -> rhodovibrin;RIGHT-TO-LEFT
+bisanhydrobacterioruberin + H2O -> monoanhydrobacterioruberin;RIGHT-TO-LEFT
+bupropion + a reduced unknown two electron carrier -> erythrohydrobupropion + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+bupropion + a reduced unknown two electron carrier -> threohydrobupropion + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+campest-4-en-3-one + NADPH + H+ -> (5alpha)-campestan-3-one + NADP+;RIGHT-TO-LEFT
+clionasterol + an oxidized unknown electron carrier -> poriferasterol + a reduced unknown two electron carrier;PHYSIOL-RIGHT-TO-LEFT
+conhydrinone + a reduced unknown two electron carrier -> conhydrine + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+coprostanone + a reduced unknown two electron carrier -> coprostanol + an oxidized unknown electron carrier;PHYSIOL-RIGHT-TO-LEFT
+coumaryl acetate + NADPH -> trans-anol + acetate + NADP+;RIGHT-TO-LEFT
+"cyanidin 3-O-[2""-O-(xylosyl)-6""-O-(p-coumaroyl) glucoside] 5-O-malonylglucoside + coenzyme A -> cyanidin 3-O-[2""-O-(xylosyl)-6""-O-(p-coumaroyl) glucoside] 5-O-glucoside + malonyl-CoA";PHYSIOL-RIGHT-TO-LEFT
+dTDP-2,3,6-trideoxy-3-C-methyl-3-amino-4-dehydro-alpha-D-gulose + NADPH + H+ -> dTDP-beta-L-4-epi-vancosamine + NADP+;RIGHT-TO-LEFT
+dTDP-2,6-dideoxy-D-glycero-hex-2-enos-4-ulose + NAD(P)H + 2 H+ -> dTDP-4-dehydro-2,6-dideoxy-alpha-D-allose + NAD(P)+;RIGHT-TO-LEFT
+dTDP-3,4-didehydro-2,6-dideoxy-beta-L-glucose + L-glutamate -> dTDP-3-amino-4-dehydro-2,3,6-trideoxy-beta-L-glucose + 2-oxoglutarate;RIGHT-TO-LEFT
+dTDP-3-N,N-dimethylamino-4-oxo-2,3,6-trideoxy-beta-L-glucose + NADPH + H+ -> dTDP-beta-L-megosamine + NADP+;RIGHT-TO-LEFT
+dTDP-4-dehydro-2,6-dideoxy-alpha-D-threo-hexopyranose + NADPH + H+ -> dTDP-alpha-D-oliose + NADP+;RIGHT-TO-LEFT
+dTDP-4-dehydro-2,6-dideoxy-alpha-D-threo-hexopyranose + NADPH + H+ -> dTDP-alpha-D-olivose + NADP+;RIGHT-TO-LEFT
+dTDP-4-dehydro-2,6-dideoxy-alpha-L-glucose + NADPH + H+ -> dTDP-beta-L-digitoxose + NADP+;PHYSIOL-RIGHT-TO-LEFT
+dTDP-4-dehydro-2,6-dideoxy-beta-L-galactose + NADPH + H+ -> dTDP-beta-L-olivose + NADP+;PHYSIOL-RIGHT-TO-LEFT
+dTDP-4-dehydro-3-C-methyl-2,6-dideoxy-alpha-D-glucose + NADPH + H+ -> dTDP-alpha-D-mycarose + NADP+;RIGHT-TO-LEFT
+dTDP-4-dehydro-3-C-methyl-2,6-dideoxy-beta-L-galactose + NADPH + H+ -> dTDP-beta-L-mycarose + NADP+;RIGHT-TO-LEFT
+dTDP-4-dehydro-5-methyl-beta-L-rhamnose + NADH + H+ -> dTDP-4-O-demethyl-beta-L-noviose + NAD+;RIGHT-TO-LEFT
+diacetyl + NADH + H+ -> acetoin + NAD+;RIGHT-TO-LEFT
+diacetyl + NADPH + H+ -> acetoin + NADP+;PHYSIOL-RIGHT-TO-LEFT
+dihydrogeranylgeranyl bacteriochlorophyllide b + NADPH + H+ -> tetrahydrogeranylgeranyl bacteriochlorophyllide b + NADP+;PHYSIOL-RIGHT-TO-LEFT
+dihydrogeranylgeranyl bacteriopheophytin + NADPH + H+ -> tetrahydrogeranylgeranyl bacteriopheophytin + NADP+;PHYSIOL-RIGHT-TO-LEFT
+dihydrogeranylgeranyl chlorophyll a + NADPH + H+ -> tetrahydrogeranylgeranyl chlorophyll a + NADP+;PHYSIOL-RIGHT-TO-LEFT
+dihydrogeranylgeranyl diphosphate + NADPH + H+ -> tetrahydrogeranylgeranyl diphosphate + NADP+;RIGHT-TO-LEFT
+ethyl-2-methylacetoacetate + NADPH + H+ -> ethyl-(2R)-methyl-(3S)-hydroxybutanoate + NADP+;PHYSIOL-RIGHT-TO-LEFT
+geraniol + NADPH + H+ -> citronellol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+geranylgeranyl bacteriochlorophyllide a + NADPH + H+ -> phyta-2,10,14-trienyl bacteriochlorophyllide a + NADP+;RIGHT-TO-LEFT
+geranylgeranyl bacteriochlorophyllide b + NADPH + H+ -> dihydrogeranylgeranyl bacteriochlorophyllide b + NADP+;PHYSIOL-RIGHT-TO-LEFT
+geranylgeranyl bacteriopheophytin + NADPH + H+ -> dihydrogeranylgeranyl bacteriopheophytin + NADP+;PHYSIOL-RIGHT-TO-LEFT
+geranylgeranyl chlorophyll a + NADPH + H+ -> dihydrogeranylgeranyl chlorophyll a + NADP+;PHYSIOL-RIGHT-TO-LEFT
+geranylgeranyl diphosphate + NADPH + H+ -> dihydrogeranylgeranyl diphosphate + NADP+;RIGHT-TO-LEFT
+glutathioselenol + NADPH + H+ -> hydrogen selenide + glutathione + NADP+;RIGHT-TO-LEFT
+hexanoyl-CoA + NAD(P)H + H+ -> 1-hexanal + coenzyme A + NAD(P)+;RIGHT-TO-LEFT
+hydroxylamine + 2 ATP + a reduced unknown two electron carrier + H2O -> ammonium + 2 ADP + an oxidized unknown electron carrier + 2 phosphate + H+;PHYSIOL-RIGHT-TO-LEFT
+hydroxypyruvate + NADPH + H+ -> D-glycerate + NADP+;RIGHT-TO-LEFT
+hypoxanthine + H+ -> hypoxanthine + H+;RIGHT-TO-LEFT
+isobutanal + NADPH + H+ -> isobutanol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+mithramycin DK + NADPH + H+ -> mithramycin + NADP+;RIGHT-TO-LEFT
+monoanhydrobacterioruberin + H2O -> bacterioruberin;RIGHT-TO-LEFT
+nitrobenzene + NADPH + H+ -> nitrosobenzene + NADP+ + H2O;PHYSIOL-RIGHT-TO-LEFT
+nitrosobenzene + NADPH + H+ -> N-phenylhydroxylamine + NADP+;PHYSIOL-RIGHT-TO-LEFT
+oxalosuccinate + NADH + H+ -> D-threo-isocitrate + NAD+;RIGHT-TO-LEFT
+phaseic acid + a reduced unknown two electron carrier -> dihydroxyphaseic acid + an oxidized unknown electron carrier;RIGHT-TO-LEFT
+phenylacetaldehyde + NADPH + H+ -> 2-phenylethanol + NADP+;RIGHT-TO-LEFT
+phyta-2,10,14-trienyl bacteriochlorophyllide a + NADPH + H+ -> phyta-2,14-dienyl bacteriochlorophyllide a + NADP+;RIGHT-TO-LEFT
+phyta-2,14-dienyl bacteriochlorophyllide a + NADPH + H+ -> bacteriochlorophyll a + NADP+;RIGHT-TO-LEFT
+preQ0 + 5-phospho-alpha-D-ribose 1-diphosphate -> 5-phospho-alpha-D-ribose-1-preQ0 + diphosphate;RIGHT-TO-LEFT
+propynoate + H2O -> 3-hydroxypropenoate;PHYSIOL-RIGHT-TO-LEFT
+rifamycin O + NADPH -> rifamycin B + NADP+;PHYSIOL-RIGHT-TO-LEFT
+selenodiglutathione + NADPH + H+ -> glutathioselenol + glutathione + NADP+;PHYSIOL-RIGHT-TO-LEFT
+solanid-4-en-3-one + NADH + H+ -> solanidine + NAD+;PHYSIOL-RIGHT-TO-LEFT
+solasod-4-en-3-one + NADPH + H+ -> solasod-3-one + NADP+;PHYSIOL-RIGHT-TO-LEFT
+tetrahydrogeranylgeranyl bacteriochlorophyllide b + NADPH + H+ -> bacteriochlorophyll b + NADP+;PHYSIOL-RIGHT-TO-LEFT
+tetrahydrogeranylgeranyl bacteriopheophytin + NADPH + H+ -> bacteriopheophytin a + NADP+;PHYSIOL-RIGHT-TO-LEFT
+tetrahydrogeranylgeranyl chlorophyll a + NADPH + H+ -> chlorophyll a + NADP+;PHYSIOL-RIGHT-TO-LEFT
+tetrahydrogeranylgeranyl diphosphate + NADPH + H+ -> phytyl diphosphate + NADP+;RIGHT-TO-LEFT
+trichloroethene + NADPH + dioxygen -> 2,2-dichloroacetate + chloride + NADP+ + H+;PHYSIOL-RIGHT-TO-LEFT
+tridecane-3,4-dione + NADPH + H+ -> CAI-1 + NADP+;PHYSIOL-RIGHT-TO-LEFT
+tylosin + NADPH + H+ -> relomycin + NADP+;RIGHT-TO-LEFT
+valienone 7-phosphate + NADH + H+ -> validone 7-phosphate + NAD+;PHYSIOL-RIGHT-TO-LEFT
+vanillin + NADPH + H+ -> vanillyl alcohol + NADP+;PHYSIOL-RIGHT-TO-LEFT
+xylitol -> xylitol;RIGHT-TO-LEFT
+5-undecyl-1,2-dihydropyrrol-3-one + NAD(P)H + H+ -> 2-undecylpyrrole + NAD(P)+ + H2O;PHYSIOL-RIGHT-TO-LEFT

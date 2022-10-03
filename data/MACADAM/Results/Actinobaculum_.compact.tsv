@@ -1,0 +1,138 @@
+Metabolic Pathway	Present in X org./Total org.	Median score	Median frequency	Target taxonomies	Strain with the Pathway	Pathway Hierarchy	MetaCyc URL
+hydroxymethylpyrimidine salvage	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Thiamine-Biosynthesis.Thiamin-Salvage.PWY-6910.	PWY-6910
+CDP-diacylglycerol biosynthesis I	1.0	0.5	0.75	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Lipid-Biosynthesis.Phospholipid-Biosynthesis.CDP-diacylglycerol-Biosynthesis.PWY-5667.	PWY-5667
+menaquinol-10 biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Quinone-Biosynthesis.Menaquinone-Biosynthesis.PWY-5890.	PWY-5890
+3-dehydroquinate biosynthesis I	1.0	0.5	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.AROMATIC-COMPOUNDS-BIOSYN.3-Dehydroquinate-Biosynthesis.PWY-6164.	PWY-6164
+lipoprotein posttranslational modification	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Macromolecule-Modification.Protein-Modification.PWY-7884.	PWY-7884
+glutathione biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Reductants.GLUTATHIONESYN-PWY.	GLUTATHIONESYN-PWY
+urea cycle	1.0	0.6	0.6	Actinobaculum	Actinobaculum sp. 313	Degradation.Noncarbon-Nutrients.NITROGEN-DEG.PWY-4984.	PWY-4984
+NAD de novo biosynthesis I (from aspartate)	1.0	0.33	0.33	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.NAD-Metabolism.NAD-SYN.PYRIDNUCSYN-PWY.	PYRIDNUCSYN-PWY
+L-serine biosynthesis I	1.0	1.0	1.33	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.SERINE-BIOSYNTHESIS.SERSYN-PWY.	SERSYN-PWY
+menaquinol-11 biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Quinone-Biosynthesis.Menaquinone-Biosynthesis.PWY-5891.	PWY-5891
+trehalose biosynthesis V	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Metabolic-Regulators.Organic-solutes-Biosynthesis.Trehalose-biosynthesis.PWY-2661./Biosynthesis.Carbohydrates-Biosynthesis.CARBO-BIOSYNTHESIS.Trehalose-biosynthesis.PWY-2661.	PWY-2661
+queuosine biosynthesis	1.0	0.25	0.25	Actinobaculum	Actinobaculum sp. 313	Macromolecule-Modification.Nucleic-Acid-Processing.PWY-6700.	PWY-6700
+parathion degradation	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Degradation.AROMATIC-COMPOUNDS-DEGRADATION.PARATHION-DEGRADATION-PWY.	PARATHION-DEGRADATION-PWY
+succinate to cytochrome bo oxidase electron transfer	1.0	1.0	2.0	Actinobaculum	Actinobaculum sp. 313	Energy-Metabolism.Respiration.AEROBIC-RESPIRATION.PWY0-1329./Energy-Metabolism.Electron-Transfer.PWY0-1329.	PWY0-1329
+acetate and ATP formation from acetyl-CoA I	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.CARBOXYLATES-DEG.Acetate-Formation.PWY0-1312./Energy-Metabolism.Fermentation.Fermentation-to-Acids.Acetate-Formation.PWY0-1312.	PWY0-1312
+2-deoxy-&alpha;-D-ribose 1-phosphate degradation	1.0	0.33	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.Carbohydrates-Degradation.Sugars-And-Polysaccharides-Degradation.PWY-7180.	PWY-7180
+menaquinol-9 biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Quinone-Biosynthesis.Menaquinone-Biosynthesis.PWY-5844.	PWY-5844
+D-glucarate degradation I	1.0	0.5	0.75	Actinobaculum	Actinobaculum sp. 313	Degradation.SECONDARY-METABOLITE-DEGRADATION.Sugar-Derivatives.SUGAR-ACIDS-DEG.D-Glucarate-Degradation.GLUCARDEG-PWY./Degradation.CARBOXYLATES-DEG.SUGAR-ACIDS-DEG.D-Glucarate-Degradation.GLUCARDEG-PWY.	GLUCARDEG-PWY
+adenine and adenosine salvage I	1.0	1.0	1.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotides-Salvage.Adenine-Adenosine-Salvage.P121-PWY.	P121-PWY
+succinate to cytochrome bd oxidase electron transfer	1.0	1.0	2.5	Actinobaculum	Actinobaculum sp. 313	Energy-Metabolism.Respiration.AEROBIC-RESPIRATION.PWY0-1353./Energy-Metabolism.Electron-Transfer.PWY0-1353.	PWY0-1353
+autoinducer AI-2 biosynthesis I	1.0	0.4	0.4	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.SECONDARY-METABOLITE-BIOSYNTHESIS.Autoinducer-Biosynthesis.PWY-6153.	PWY-6153
+mixed acid fermentation	1.0	0.56	0.63	Actinobaculum	Actinobaculum sp. 313	Energy-Metabolism.Fermentation.Pyruvate-Degradation.Pyruvate-Ethanol-Fermentation.FERMENTATION-PWY./Energy-Metabolism.Fermentation.Alcohol-Biosynthesis.Pyruvate-Ethanol-Fermentation.FERMENTATION-PWY./Energy-Metabolism.Fermentation.Fermentation-to-Acids.FERMENTATION-PWY.	FERMENTATION-PWY
+glycolate and glyoxylate degradation I	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Degradation.CARBOXYLATES-DEG.Glycolate-Degradation.GLYCOLATEMET-PWY.	GLYCOLATEMET-PWY
+guanine and guanosine salvage	1.0	1.0	1.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotides-Salvage.Guanine-Guanosine-Salvage.PWY-6620.	PWY-6620
+L-glutamate degradation VI (to pyruvate)	1.0	0.25	0.25	Actinobaculum	Actinobaculum sp. 313	Degradation.Amino-Acid-Degradation.Proteinogenic-Amino-Acids-Degradation.GLUTAMATE-DEG.PWY-5087.	PWY-5087
+L-threonine degradation I	1.0	0.33	0.33	Actinobaculum	Actinobaculum sp. 313	Degradation.Amino-Acid-Degradation.Proteinogenic-Amino-Acids-Degradation.THREONINE-DEG.PWY-5437.	PWY-5437
+5-oxo-L-proline metabolism	1.0	0.17	0.17	Actinobaculum	Actinobaculum sp. 313	Macromolecule-Modification.Protein-Modification.PWY-7942.	PWY-7942
+D-mannose degradation	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.Carbohydrates-Degradation.Sugars-And-Polysaccharides-Degradation.MANNCAT-PWY.	MANNCAT-PWY
+myo-inositol biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.SECONDARY-METABOLITE-BIOSYNTHESIS.SUGAR-DERIVS.Sugar-Alcohols-Biosynthesis.Cyclitols-Biosynthesis.PWY-2301.	PWY-2301
+tRNA processing	1.0	0.3	0.3	Actinobaculum	Actinobaculum sp. 313	Macromolecule-Modification.Nucleic-Acid-Processing.PWY0-1479.	PWY0-1479
+L-isoleucine biosynthesis I (from threonine)	1.0	0.57	0.71	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.ISOLEUCINE-SYN.ILEUSYN-PWY.	ILEUSYN-PWY
+inosine 5'-phosphate degradation	1.0	0.75	1.5	Actinobaculum	Actinobaculum sp. 313	Degradation.NUCLEO-DEG.Purine-Degradation.PWY-5695.	PWY-5695
+L-glutamine degradation I	1.0	1.0	7.0	Actinobaculum	Actinobaculum sp. 313	Degradation.Amino-Acid-Degradation.Proteinogenic-Amino-Acids-Degradation.GLUTAMINE-DEG.GLUTAMINDEG-PWY.	GLUTAMINDEG-PWY
+demethylmenaquinol-8 biosynthesis I	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Quinone-Biosynthesis.Demethylmenaquinone-Biosynthesis.Demethylmenaquinol-8-Biosynthesis.PWY-5852.	PWY-5852
+formate assimilation into 5,10-methylenetetrahydrofolate	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Degradation.C1-COMPOUNDS.PWY-1722.	PWY-1722
+glycerophosphodiester degradation	1.0	1.0	2.0	Actinobaculum	Actinobaculum sp. 313	Degradation.Alcohol-Degradation.GLYCEROL-DEG.PWY-6952.	PWY-6952
+propene degradation	1.0	0.29	0.29	Actinobaculum	Actinobaculum sp. 313	Degradation.Carbohydrates-Degradation.Alkene-Degradation.PWY-5534.	PWY-5534
+glutaminyl-tRNAgln biosynthesis via transamidation	1.0	0.75	3.25	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Aminoacyl-tRNAs-Charging.PWY-5921.	PWY-5921
+guanosine nucleotides degradation III	1.0	0.5	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.NUCLEO-DEG.Purine-Degradation.Guanosine-Nucleotides-Degradation.PWY-6608.	PWY-6608
+L-asparagine biosynthesis III (tRNA-dependent)	1.0	0.75	3.25	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Aminoacyl-tRNAs-Charging.PWY490-4./Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.ASPARAGINE-SYN.PWY490-4.	PWY490-4
+thioredoxin pathway	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Reductants.THIOREDOX-PWY.	THIOREDOX-PWY
+S-adenosyl-L-methionine biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.SAM-PWY.	SAM-PWY
+coenzyme A biosynthesis I (prokaryotic)	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.CoA-Biosynthesis.COA-PWY.	COA-PWY
+UTP and CTP dephosphorylation I	1.0	0.6	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.NUCLEO-DEG.Pyrimidine-Degradation.Pyrimidine-Ribonucleosides-Degradation.UTP-CTP-Dephosphorylation.PWY-7185.	PWY-7185
+L-threonine biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.THREONINE-BIOSYNTHESIS.HOMOSER-THRESYN-PWY.	HOMOSER-THRESYN-PWY
+N10-formyl-tetrahydrofolate biosynthesis	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Folate-Biosynthesis.1CMET2-PWY.	1CMET2-PWY
+CMP phosphorylation	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PYR-NUC-SYN.Pyrimidine-Nucleotide-Salvage.PWY-7205.	PWY-7205
+dTDP-L-rhamnose biosynthesis	1.0	0.75	0.75	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Carbohydrates-Biosynthesis.CARBO-BIOSYNTHESIS.SUGAR-NUCLEOTIDES.dTDP-Sugar-Biosynthesis.DTDPRHAMSYN-PWY.	DTDPRHAMSYN-PWY
+glycerol-3-phosphate to hydrogen peroxide electron transport	1.0	0.5	1.0	Actinobaculum	Actinobaculum sp. 313	Energy-Metabolism.Electron-Transfer.PWY0-1591.	PWY0-1591
+adenosine nucleotides degradation II	1.0	0.6	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.NUCLEO-DEG.Purine-Degradation.Adenosine-Nucleotides-Degradation.SALVADEHYPOX-PWY.	SALVADEHYPOX-PWY
+ppGpp biosynthesis	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Metabolic-Regulators.PPGPPMET-PWY.	PPGPPMET-PWY
+4-aminobenzoate biosynthesis	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Folate-Biosynthesis.PWY-6543.	PWY-6543
+guanine and guanosine salvage II	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotides-Salvage.Guanine-Guanosine-Salvage.PWY-6599.	PWY-6599
+tRNA charging	1.0	0.57	0.62	Actinobaculum	Actinobaculum sp. 313	Metabolic-Clusters.TRNA-CHARGING-PWY./Biosynthesis.Aminoacyl-tRNAs-Charging.TRNA-CHARGING-PWY.	TRNA-CHARGING-PWY
+paraoxon degradation	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.AROMATIC-COMPOUNDS-DEGRADATION.PWY-5490.	PWY-5490
+acyl carrier protein activation	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Activation-Inactivation-Interconversion.Activation.PWY-6012-1./Biosynthesis.Cofactor-Biosynthesis.PWY-6012-1.	PWY-6012-1
+phosphopantothenate biosynthesis I	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Pantothenate-Biosynthesis.PANTO-PWY.	PANTO-PWY
+L-arginine biosynthesis II (acetyl cycle)	1.0	0.89	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.ARGININE-SYN.ARGSYNBSUB-PWY.	ARGSYNBSUB-PWY
+purine deoxyribonucleosides degradation I	1.0	1.0	1.75	Actinobaculum	Actinobaculum sp. 313	Degradation.NUCLEO-DEG.Purine-Degradation.PWY-7179.	PWY-7179
+superoxide radicals degradation	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Detoxification.REACTIVE-OXYGEN-SPECIES-DEGRADATION.DETOX1-PWY.	DETOX1-PWY
+NADH repair	1.0	0.25	0.25	Actinobaculum	Actinobaculum sp. 313	Energy-Metabolism.PWY-6938.	PWY-6938
+ethene and chloroethene degradation	1.0	0.25	0.25	Actinobaculum	Actinobaculum sp. 313	Degradation.Carbohydrates-Degradation.Alkene-Degradation.PWY-7776.	PWY-7776
+D-glucarate degradation II	1.0	0.33	0.67	Actinobaculum	Actinobaculum sp. 313	Degradation.SECONDARY-METABOLITE-DEGRADATION.Sugar-Derivatives.SUGAR-ACIDS-DEG.D-Glucarate-Degradation.PWY-6499./Degradation.CARBOXYLATES-DEG.SUGAR-ACIDS-DEG.D-Glucarate-Degradation.PWY-6499.	PWY-6499
+D-xylose degradation I	1.0	1.0	4.0	Actinobaculum	Actinobaculum sp. 313	Degradation.Carbohydrates-Degradation.Sugars-And-Polysaccharides-Degradation.Xylose-Degradation.XYLCAT-PWY.	XYLCAT-PWY
+mycothiol oxidation	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Reductants.PWY1G-126.	PWY1G-126
+long-chain fatty acid activation	1.0	1.0	5.0	Actinobaculum	Actinobaculum sp. 313	Activation-Inactivation-Interconversion.Activation.PWY-5143./Biosynthesis.Lipid-Biosynthesis.PWY-5143.	PWY-5143
+menaquinol-7 biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Quinone-Biosynthesis.Menaquinone-Biosynthesis.PWY-5839.	PWY-5839
+L-asparagine degradation I	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.Amino-Acid-Degradation.Proteinogenic-Amino-Acids-Degradation.ASPARAGINE-DEG.ASPARAGINE-DEG1-PWY.	ASPARAGINE-DEG1-PWY
+glycerol degradation I	1.0	1.0	1.5	Actinobaculum	Actinobaculum sp. 313	Degradation.Fatty-Acid-and-Lipid-Degradation.PWY-4261./Degradation.Alcohol-Degradation.GLYCEROL-DEG.PWY-4261.	PWY-4261
+L-homoserine biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.Other-Amino-Acid-Biosynthesis.HOMOSERSYN-PWY.	HOMOSERSYN-PWY
+N6-L-threonylcarbamoyladenosine37-modified tRNA biosynthesis	1.0	0.5	1.5	Actinobaculum	Actinobaculum sp. 313	Macromolecule-Modification.Nucleic-Acid-Processing.PWY0-1587.	PWY0-1587
+adenosine deoxyribonucleotides de novo biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotide-De-Novo-Biosynthesis.Purine-Deoxyribonuc-De-Novo-Biosynthesis.Adenosine-Deoxy-Denovo-Bbiosynthesis.PWY-7227./Biosynthesis.Nucleotide-Biosynthesis.Deoxyribonucleotide-Biosynthesis.Purine-Deoxyribonuc-De-Novo-Biosynthesis.Adenosine-Deoxy-Denovo-Bbiosynthesis.PWY-7227.	PWY-7227
+UDP-N-acetyl-D-glucosamine biosynthesis I	1.0	0.8	0.8	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Carbohydrates-Biosynthesis.CARBO-BIOSYNTHESIS.SUGAR-NUCLEOTIDES.UDP-Sugar-Biosynthesis.UDP-NAc-Glucosamine-Biosynthesis.UDPNAGSYN-PWY.	UDPNAGSYN-PWY
+guanosine deoxyribonucleotides de novo biosynthesis I	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotide-De-Novo-Biosynthesis.Purine-Deoxyribonuc-De-Novo-Biosynthesis.Guanosine-Deoxy-Denovo-Biosynthesis.PWY-7226./Biosynthesis.Nucleotide-Biosynthesis.Deoxyribonucleotide-Biosynthesis.Purine-Deoxyribonuc-De-Novo-Biosynthesis.Guanosine-Deoxy-Denovo-Biosynthesis.PWY-7226.	PWY-7226
+L-lysine biosynthesis III	1.0	0.86	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.LYSINE-SYN.PWY-2942.	PWY-2942
+L-alanine biosynthesis I	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.ALANINE-SYN.ALANINE-VALINESYN-PWY.	ALANINE-VALINESYN-PWY
+5-aminoimidazole ribonucleotide biosynthesis I	1.0	0.6	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.AIR-Biosynthesis.PWY-6121.	PWY-6121
+PRPP biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Carbohydrates-Biosynthesis.CARBO-BIOSYNTHESIS.Sugar-Phosphate-Biosynthesis.PWY0-662.	PWY0-662
+adenine and adenosine salvage III	1.0	1.0	1.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotides-Salvage.Adenine-Adenosine-Salvage.PWY-6609.	PWY-6609
+inosine-5'-phosphate biosynthesis I	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotide-De-Novo-Biosynthesis.Purine-Ribonuc-De-Novo-Biosynthesis.IMP-Biosynthesis.PWY-6123.	PWY-6123
+L-arabinose degradation I	1.0	0.67	1.33	Actinobaculum	Actinobaculum sp. 313	Degradation.Carbohydrates-Degradation.Sugars-And-Polysaccharides-Degradation.L-Arabinose-Degradation.ARABCAT-PWY.	ARABCAT-PWY
+L-proline biosynthesis I	1.0	0.75	0.75	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.PROLINE-SYN.PROSYN-PWY.	PROSYN-PWY
+UDP-&alpha;-D-galactose biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Carbohydrates-Biosynthesis.CARBO-BIOSYNTHESIS.SUGAR-NUCLEOTIDES.UDP-Sugar-Biosynthesis.PWY-7344.	PWY-7344
+UTP and CTP de novo biosynthesis	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PYR-NUC-SYN.Pyrimidine-De-Novo-Biosyn.Pyrimid-Ribonucleot-De-Novo-Biosyn.PWY-7176.	PWY-7176
+5-aminoimidazole ribonucleotide biosynthesis II	1.0	0.6	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.AIR-Biosynthesis.PWY-6122.	PWY-6122
+L-histidine biosynthesis	1.0	0.9	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.HISTIDINE-SYN.HISTSYN-PWY.	HISTSYN-PWY
+L-leucine biosynthesis	1.0	0.83	1.17	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.LEUCINE-SYN.LEUSYN-PWY.	LEUSYN-PWY
+L-valine biosynthesis	1.0	0.75	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.VALINE-BIOSYNTHESIS.VALSYN-PWY.	VALSYN-PWY
+heme b biosynthesis I (aerobic)	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Porphyrin-Compounds-Biosynthesis.HEME-SYN.Heme-b-Biosynthesis.HEME-BIOSYNTHESIS-II.	HEME-BIOSYNTHESIS-II
+glycerol-3-phosphate to fumarate electron transfer	1.0	1.0	2.0	Actinobaculum	Actinobaculum sp. 313	Energy-Metabolism.Respiration.ANAEROBIC-RESPIRATION.PWY0-1582./Energy-Metabolism.Electron-Transfer.PWY0-1582.	PWY0-1582
+NAD salvage pathway III (to nicotinamide riboside)	1.0	0.67	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.NAD-Metabolism.NAD-SYN.NAD-BIOSYNTHESIS-II.	NAD-BIOSYNTHESIS-II
+folate polyglutamylation	1.0	0.8	0.8	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Folate-Biosynthesis.PWY-2161.	PWY-2161
+pyrimidine ribonucleosides salvage I	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PYR-NUC-SYN.Pyrimidine-Nucleotide-Salvage.PWY-7193.	PWY-7193
+allantoin degradation to ureidoglycolate I (urea producing)	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Degradation.AMINE-DEG.Allantoin-degradation.PWY-5697.	PWY-5697
+D-galactose degradation I (Leloir pathway)	1.0	0.6	0.6	Actinobaculum	Actinobaculum sp. 313	Degradation.Carbohydrates-Degradation.Sugars-And-Polysaccharides-Degradation.GALACTOSE-DEGRADATION.PWY-6317.	PWY-6317
+purine ribonucleosides degradation	1.0	0.83	1.5	Actinobaculum	Actinobaculum sp. 313	Degradation.NUCLEO-DEG.Purine-Degradation.PWY0-1296.	PWY0-1296
+heme b biosynthesis II (anaerobic)	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Porphyrin-Compounds-Biosynthesis.HEME-SYN.Heme-b-Biosynthesis.HEMESYN2-PWY.	HEMESYN2-PWY
+glycine biosynthesis I	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.GLYCINE-SYN.GLYSYN-PWY.	GLYSYN-PWY
+L-lysine biosynthesis I	1.0	0.78	0.89	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.LYSINE-SYN.DAPLYSINESYN-PWY.	DAPLYSINESYN-PWY
+demethylmenaquinol-9 biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Quinone-Biosynthesis.Demethylmenaquinone-Biosynthesis.PWY-5851.	PWY-5851
+menaquinol-8 biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Quinone-Biosynthesis.Menaquinone-Biosynthesis.MENAQUINONESYN-PWY.	MENAQUINONESYN-PWY
+L-ascorbate degradation II (bacterial, aerobic)	1.0	0.38	0.5	Actinobaculum	Actinobaculum sp. 313	Degradation.CARBOXYLATES-DEG.Ascorbate-Degradation.PWY-6961.	PWY-6961
+reductive monocarboxylic acid cycle	1.0	1.0	1.5	Actinobaculum	Actinobaculum sp. 313	Degradation.C1-COMPOUNDS.CO2-Fixation.PWY-5493.	PWY-5493
+L-glutamine biosynthesis I	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.Noncarbon-Nutrients.NITROGEN-DEG.Ammonia-Assimilation.GLNSYN-PWY./Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.GLUTAMINE-SYN.GLNSYN-PWY.	GLNSYN-PWY
+glycerol-3-phosphate to cytochrome bo oxidase electron transfer	1.0	1.0	1.5	Actinobaculum	Actinobaculum sp. 313	Energy-Metabolism.Respiration.AEROBIC-RESPIRATION.PWY0-1561./Energy-Metabolism.Electron-Transfer.PWY0-1561.	PWY0-1561
+glycogen degradation II	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Glycan-Glycan-Degradation.PWY-5941./Degradation.Polymer-Degradation.POLYSACCHARIDES-DEG.Glycan-Degradation.PWY-5941./Degradation.Polymer-Degradation.POLYSACCHARIDES-DEG.Glycogen-Degradation.PWY-5941./Degradation.Carbohydrates-Degradation.POLYSACCHARIDES-DEG.Glycan-Degradation.PWY-5941./Degradation.Carbohydrates-Degradation.POLYSACCHARIDES-DEG.Glycogen-Degradation.PWY-5941.	PWY-5941
+pyrimidine nucleobases salvage I	1.0	1.0	2.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PYR-NUC-SYN.Pyrimidine-Nucleotide-Salvage.PWY-7183.	PWY-7183
+L-glutamate biosynthesis III	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.GLUTAMATE-SYN.GLUTSYNIII-PWY.	GLUTSYNIII-PWY
+nitrate reduction IX (dissimilatory)	1.0	0.5	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.Noncarbon-Nutrients.NITROGEN-DEG.Nitrate-Reduction.PWY0-1581./Energy-Metabolism.Respiration.ANAEROBIC-RESPIRATION.PWY0-1581./Energy-Metabolism.Electron-Transfer.PWY0-1581.	PWY0-1581
+chorismate biosynthesis from 3-dehydroquinate	1.0	0.6	0.8	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.AROMATIC-COMPOUNDS-BIOSYN.Chorismate-Biosynthesis.PWY-6163.	PWY-6163
+di-trans,poly-cis-undecaprenyl phosphate biosynthesis	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Polyprenyl-Biosynthesis.PWY-5785.	PWY-5785
+thiamine diphosphate biosynthesis I (E. coli)	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Thiamine-Biosynthesis.Thiamin-Diphosphate-Biosynthesis.PWY-6894.	PWY-6894
+demethylmenaquinol-6 biosynthesis I	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Quinone-Biosynthesis.Demethylmenaquinone-Biosynthesis.Demethylmenaquinol-6-Biosynthesis.PWY-5853.	PWY-5853
+thiamine diphosphate biosynthesis II (Bacillus)	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Thiamine-Biosynthesis.Thiamin-Diphosphate-Biosynthesis.PWY-6893.	PWY-6893
+glycolysis I (from glucose 6-phosphate)	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Energy-Metabolism.GLYCOLYSIS-VARIANTS.GLYCOLYSIS.	GLYCOLYSIS
+flavin biosynthesis I (bacteria and plants)	1.0	0.56	0.56	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Flavin-Biosynthesis.RIBOSYN2-PWY.	RIBOSYN2-PWY
+L-tryptophan biosynthesis	1.0	0.83	0.83	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.TRYPTOPHAN-BIOSYNTHESIS.TRPSYN-PWY.	TRPSYN-PWY
+tetrahydrofolate biosynthesis	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Folate-Biosynthesis.PWY-6614.	PWY-6614
+L-ornithine biosynthesis I	1.0	1.0	1.2	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.Other-Amino-Acid-Biosynthesis.L-Ornithine-Biosynthesis.GLUTORN-PWY.	GLUTORN-PWY
+D-fructuronate degradation	1.0	0.5	0.75	Actinobaculum	Actinobaculum sp. 313	Degradation.SECONDARY-METABOLITE-DEGRADATION.Sugar-Derivatives.SUGAR-ACIDS-DEG.PWY-7242./Degradation.CARBOXYLATES-DEG.SUGAR-ACIDS-DEG.PWY-7242.	PWY-7242
+pyrimidine deoxyribonucleotides de novo biosynthesis I	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Metabolic-Clusters.PWY-7184./Biosynthesis.Nucleotide-Biosynthesis.PYR-NUC-SYN.Pyrimidine-De-Novo-Biosyn.Pyrimid-Deoxyribonucleot-De-Novo-Biosyn.PWY-7184./Biosynthesis.Nucleotide-Biosynthesis.Deoxyribonucleotide-Biosynthesis.Pyrimid-Deoxyribonucleot-De-Novo-Biosyn.PWY-7184.	PWY-7184
+L-homocysteine biosynthesis	1.0	0.5	0.5	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.Other-Amino-Acid-Biosynthesis.PWY-5344.	PWY-5344
+menaquinol-6 biosynthesis	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Quinone-Biosynthesis.Menaquinone-Biosynthesis.PWY-5849.	PWY-5849
+pyrimidine deoxyribonucleosides degradation	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Degradation.NUCLEO-DEG.Pyrimidine-Degradation.Pyrimidine-Deoxyribonucleosides-Deg.PWY-7181.	PWY-7181
+adenosine ribonucleotides de novo biosynthesis	1.0	0.67	0.67	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotide-De-Novo-Biosynthesis.Purine-Ribonuc-De-Novo-Biosynthesis.PWY-7219.	PWY-7219
+methylerythritol phosphate pathway I	1.0	0.56	0.56	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.SECONDARY-METABOLITE-BIOSYNTHESIS.Terpenoid-Biosynthesis.ISOPRENOIDS.Isopentenyl-Diphosphate-Biosynthesis.MEP-NONMEVIPP-PWY.	MEP-NONMEVIPP-PWY
+biotin-carboxyl carrier protein assembly	1.0	0.25	0.25	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Lipid-Biosynthesis.PWY0-1264.	PWY0-1264
+L-lactaldehyde degradation (anaerobic)	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.Aldehyde-Degradation.Lactaldehyde-Degradation.PWY0-1315.	PWY0-1315
+quinate degradation II	1.0	0.67	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.AROMATIC-COMPOUNDS-DEGRADATION.Quinate-Degradation.PWY-6416.	PWY-6416
+L-cysteine biosynthesis I	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Amino-Acid-Biosynthesis.IND-AMINO-ACID-SYN.CYSTEINE-SYN.CYSTSYN-PWY.	CYSTSYN-PWY
+fatty acid &beta;-oxidation I	1.0	0.29	1.14	Actinobaculum	Actinobaculum sp. 313	Degradation.Fatty-Acid-and-Lipid-Degradation.Fatty-Acid-Degradation.FAO-PWY.	FAO-PWY
+molybdenum cofactor biosynthesis	1.0	0.25	0.25	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Molybdenum-Cofactor-Biosynthesis.PWY-6823.	PWY-6823
+guanosine ribonucleotides de novo biosynthesis	1.0	0.5	0.75	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotide-De-Novo-Biosynthesis.Purine-Ribonuc-De-Novo-Biosynthesis.PWY-7221.	PWY-7221
+S-methyl-5'-thioadenosine degradation IV	1.0	1.0	1.0	Actinobaculum	Actinobaculum sp. 313	Degradation.NUCLEO-DEG.Methylthioadenosine-Degradation.PWY0-1391.	PWY0-1391
+pyrimidine deoxyribonucleosides salvage	1.0	0.8	0.8	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PYR-NUC-SYN.Pyrimidine-Nucleotide-Salvage.PWY-7199.	PWY-7199
+xanthine and xanthosine salvage	1.0	0.5	1.0	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Nucleotide-Biosynthesis.PUR-NUC-SYN.Purine-Nucleotides-Salvage.SALVPURINE2-PWY.	SALVPURINE2-PWY
+pyridoxal 5'-phosphate biosynthesis I	1.0	0.43	0.43	Actinobaculum	Actinobaculum sp. 313	Biosynthesis.Cofactor-Biosynthesis.Vitamin-Biosynthesis.Vitamin-B6-Biosynthesis.PYRIDOXSYN-PWY.	PYRIDOXSYN-PWY
