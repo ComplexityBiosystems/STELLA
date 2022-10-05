@@ -10,4 +10,4 @@ The directory "R" contains R codes divided in two directories related to MS and 
 
 The directory "python" contains jupyter notebooks that allow to run STELLA in python. The directory also contains a notebook used to validate the software through F-1 scores. 
 
-The directory data contains all the data needed to reproduce the results in the paper.
+The directory data contains all the data needed to run the codes and reproduce the results in the paper.
