@@ -2,7 +2,7 @@
 
 This repository contains both the R and python versions of the codes used for the paper: "Quantitative analysis of disease-related metabolic dysregulation of human microbiota" by  M.R. Fumagalli, S.M. Saro, M. Tajana, S. Zapperi, C.A.M. La Porta.
 
-Submitted
+published in iScience 23 Dec 2022, 26(1):105868 https://doi.org/10.1016/j.isci.2022.105868
 
 The repository contains R codes, jupyter python notebooks and useful data.
 
